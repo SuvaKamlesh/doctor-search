@@ -33,5 +33,12 @@ http://doctor-search.gt.tc
 - Add appointment booking
 - Add location-based search
 
+## ⚙️ Setup Instructions
+
+1. Clone the repository
+2. Import the database file (doctor_search.sql) into phpMyAdmin
+3. Update database credentials in db_connect.php
+4. Run the project on localhost
+
 ## 👨‍💻 Author
 Kamlesh Suva
