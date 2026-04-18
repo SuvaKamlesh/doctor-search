@@ -1,5 +1,5 @@
 <?php
-include "db_connect.php";
+include "includes/db_connect.php";
 
 $sql = "SELECT * FROM doctors";
 $result = $conn->query($sql);

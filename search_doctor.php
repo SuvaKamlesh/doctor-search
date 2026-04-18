@@ -1,5 +1,5 @@
 <?php
-include "db_connect.php";
+include "includes/db_connect.php";
 
 $search = isset($_GET['search']) ? trim($_GET['search']) : "";
 
