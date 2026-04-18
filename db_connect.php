@@ -1,7 +1,7 @@
 <?php
 $host = "sql100.byetcluster.com";
-$username = "if0_41347373";
-$password = "Yadav8788";
+$username = "root";
+$password = "";
 $database = "if0_41347373_DoctorsName";
 
 $conn = new mysqli($host, $username, $password, $database);
