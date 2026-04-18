@@ -43,5 +43,12 @@ http://doctor-search.gt.tc
 ## 🔐 Note
 Update database username and password before running the project.
 
+## 🧠 How It Works
+
+- User enters doctor specialization
+- Frontend sends request using JavaScript
+- PHP fetches data from MySQL database
+- Results are displayed dynamically
+
 ## 👨‍💻 Author
 Kamlesh Suva
