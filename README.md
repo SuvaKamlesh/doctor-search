@@ -1,21 +1,29 @@
+# 🩺 Doctor Search Website
 
-# Doctor Search Website
+A web application to search and find doctors based on specialization.
 
-## Description
-This is a dynamic web application that allows users to search and view doctor details.
+## 🔗 Live Demo
+http://doctor-search.gt.tc
 
-## Features
-- View doctor list
-- Search by city or specialization
-- Doctor details page
-- Dynamic data using MySQL
-
-## Technologies Used
+## 💻 Tech Stack
 - HTML
 - CSS
 - JavaScript
 - PHP
 - MySQL
 
-## Live Demo
-http://doctor-search.gt.tc
+## ✨ Features
+- Search doctors by specialization
+- Display doctor details
+- Simple and user-friendly interface
+
+## 📸 Screenshots
+(Add images here)
+
+## 🚀 Future Improvements
+- Add login system
+- Add appointment booking
+- Add location-based search
+
+## 👨‍💻 Author
+Kamlesh Suva
