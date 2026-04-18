@@ -40,5 +40,8 @@ http://doctor-search.gt.tc
 3. Update database credentials in db_connect.php
 4. Run the project on localhost
 
+## 🔐 Note
+Update database username and password before running the project.
+
 ## 👨‍💻 Author
 Kamlesh Suva
