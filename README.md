@@ -18,7 +18,15 @@ http://doctor-search.gt.tc
 - Simple and user-friendly interface
 
 ## 📸 Screenshots
-(Add images here)
+
+### 🏠 Homepage
+![Homepage](home.png)
+
+### 🔍 Search Page
+![Search](search.png)
+
+### 📄 Results
+![Results](result.png)
 
 ## 🚀 Future Improvements
 - Add login system
